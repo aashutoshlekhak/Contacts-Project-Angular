@@ -1,0 +1,50 @@
+{
+  "contacts": [
+    {
+      "id": "1",
+      "name": "Apple",
+      "email": "apple@gmail.com",
+      "photo": "https://image.shutterstock.com/image-photo/red-apple-isolated-on-white-260nw-1727544364.jpg",
+      "mobile": "12",
+      "company": "Apple",
+      "title": "string",
+      "groupId": "string"
+    },
+    {
+      "id": "2",
+      "name": "Ball",
+      "email": "ball@gmail.com",
+      "photo": "string",
+      "mobile": "23",
+      "company": "Ball",
+      "title": "string",
+      "groupId": "string"
+    },
+    {
+      "id": "3",
+      "name": "Cat",
+      "email": "cat@gmail.com",
+      "photo": "string",
+      "mobile": "34",
+      "company": "Cat",
+      "title": "string",
+      "groupId": "string"
+    },
+    {
+      "id": "4",
+      "name": "Dog",
+      "email": "dog@gmail.com",
+      "photo": "string",
+      "mobile": "45",
+      "company": "Dog",
+      "title": "string",
+      "groupId": "string"
+    }
+  ],
+
+  "groups": [
+    { "id": "A", "name": "Friend" },
+
+    { "id": "B", "name": "Company" }
+  ]
+}
